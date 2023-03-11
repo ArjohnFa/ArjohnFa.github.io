@@ -1,0 +1,14 @@
+# Dossiers à exclure
+bin/
+obj/
+packages/
+
+# Fichiers à exclure
+*.suo
+*.user
+*.sln.docstates
+*.vs/
+*.csproj.user
+*.psess
+*.cache
+*.log
